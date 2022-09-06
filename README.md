@@ -1,1 +1,1 @@
-# Write-ups en français sur mon gitbook : https://karmhack.gitbook.io/write-ups/
+# Write-ups en français : https://karmhack.gitbook.io/write-ups/
