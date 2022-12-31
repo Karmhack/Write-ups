@@ -9,6 +9,7 @@ THM :
   Intermediate Nmap
   Blueprint
   Corridor
+  5up3r s3cur3 (fr + eng)
   
 VulnHub :
   Quaoar
